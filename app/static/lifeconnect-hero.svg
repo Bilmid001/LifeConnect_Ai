@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
+  <title id="title">LifeConnect community illustration</title>
+  <desc id="desc">A volunteer donor and healthcare worker beside a welcoming clinic.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e6faf6"/>
+      <stop offset="1" stop-color="#d8eaf8"/>
+    </linearGradient>
+    <linearGradient id="building" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f0f7fb"/>
+    </linearGradient>
+    <linearGradient id="scrub" x1="0" x2="1">
+      <stop offset="0" stop-color="#168e89"/>
+      <stop offset="1" stop-color="#176a83"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="560" rx="36" fill="url(#sky)"/>
+  <circle cx="605" cy="112" r="52" fill="#ffffff" opacity=".65"/>
+  <circle cx="116" cy="393" r="108" fill="#bcebe2" opacity=".5"/>
+  <path d="M0 428c115-46 215-43 329-5s258 52 431-7v144H0Z" fill="#c6e8df"/>
+  <rect x="365" y="126" width="300" height="296" rx="24" fill="url(#building)" stroke="#d7e8ee" stroke-width="4"/>
+  <path d="M340 154 515 65l175 89v24H340Z" fill="#1b4562"/>
+  <rect x="409" y="202" width="68" height="66" rx="12" fill="#e6f4f8"/>
+  <rect x="548" y="202" width="68" height="66" rx="12" fill="#e6f4f8"/>
+  <rect x="477" y="319" width="76" height="103" rx="14" fill="#d8f2ed"/>
+  <rect x="495" y="336" width="40" height="40" rx="12" fill="#21a69a"/>
+  <path d="M515 344v24m-12-12h24" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M443 224v22m-11-11h22m118-11v22m-11-11h22" stroke="#77aab4" stroke-width="5" stroke-linecap="round"/>
+  <rect x="54" y="286" width="224" height="140" rx="26" fill="#fff" opacity=".78"/>
+  <circle cx="141" cy="234" r="49" fill="#d99d7b"/>
+  <path d="M94 231c2-48 83-70 102-8-27-6-44-17-55-29-8 19-25 31-47 37Z" fill="#243d55"/>
+  <path d="M74 403c3-96 35-135 68-135h2c48 0 79 48 82 135Z" fill="#176c78"/>
+  <path d="M122 302c14 13 29 13 43 0l17 19-36 38-41-38Z" fill="#fff"/>
+  <path d="M146 334v26m-13-13h26" stroke="#21a69a" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="275" cy="354" r="42" fill="#bc795f"/>
+  <path d="M234 352c7-41 74-56 83-2-26-8-43-19-52-28-7 15-17 25-31 30Z" fill="#20354b"/>
+  <path d="M215 453c4-62 24-89 59-89h2c34 0 53 29 58 89Z" fill="url(#scrub)"/>
+  <path d="M255 397h27m-13-13v27" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+  <path d="M331 290c0-16 13-29 29-29s29 13 29 29c0 25-29 47-29 47s-29-22-29-47Z" fill="#dc6170"/>
+  <path d="M359 278v23m-11-11h22" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="690" cy="333" r="18" fill="#21a69a" opacity=".8"/>
+  <circle cx="688" cy="333" r="7" fill="#fff"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Volunteer blood donors together</title>
+  <desc id="desc">A welcoming illustration of three diverse adult volunteers at a community donation event.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8f5f2"/><stop offset="1" stop-color="#dfeafa"/></linearGradient>
+    <linearGradient id="shirt" x2="0" y2="1"><stop stop-color="#27a89b"/><stop offset="1" stop-color="#167f79"/></linearGradient>
+    <linearGradient id="blue" x2="0" y2="1"><stop stop-color="#477fae"/><stop offset="1" stop-color="#245579"/></linearGradient>
+  </defs>
+  <rect width="900" height="620" rx="34" fill="url(#bg)"/>
+  <circle cx="730" cy="110" r="58" fill="#fff" opacity=".58"/><circle cx="122" cy="500" r="86" fill="#cce8e0" opacity=".7"/>
+  <path d="M0 478c150-55 280-30 422 16s280 40 478-18v144H0z" fill="#c8e4dd"/>
+  <rect x="66" y="64" width="210" height="42" rx="21" fill="#fff" opacity=".82"/><circle cx="91" cy="85" r="7" fill="#21a69a"/><text x="111" y="91" fill="#28526a" font-family="Arial,sans-serif" font-size="17" font-weight="700">COMMUNITY DONORS</text>
+  <!-- left volunteer -->
+  <path d="M158 478c5-94 23-145 83-145s81 49 88 145z" fill="url(#blue)"/><path d="M198 347c16 22 34 32 51 32s35-10 50-32l19 18-24 36h-93l-23-36z" fill="#f4f7fa"/>
+  <path d="M223 300c-4-25 3-50 28-55 31-7 51 14 48 46-2 30-17 54-37 55-21 0-35-19-39-46z" fill="#a86545"/><path d="M218 289c-5-34 14-58 47-57 25 1 42 16 40 39-12-10-27-18-44-19-12 18-26 27-43 30z" fill="#25384a"/><path d="M234 293c7 6 15 6 21 0m25 0c6 6 13 6 19 0" fill="none" stroke="#54382f" stroke-width="3" stroke-linecap="round"/><path d="M256 323c11 8 22 8 32 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <!-- middle volunteer -->
+  <path d="M335 500c7-122 29-193 112-193 79 0 106 71 113 193z" fill="url(#shirt)"/><path d="M404 316c9 28 25 45 43 45s34-17 44-45l21 23-20 43h-91l-18-43z" fill="#f4f7fa"/>
+  <path d="M391 251c-4-40 12-72 53-76 45-5 70 22 66 68-3 44-24 75-58 77-32 1-58-29-61-69z" fill="#d69a72"/><path d="M386 253c-7-50 17-83 61-86 41-3 67 22 66 64-16-12-27-30-33-48-19 15-48 23-86 24z" fill="#263a4b"/><path d="M405 259c8 7 17 7 25 0m36 0c8 7 17 7 25 0" fill="none" stroke="#704b3b" stroke-width="3.5" stroke-linecap="round"/><path d="M431 287c14 11 28 11 42 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <!-- right volunteer -->
+  <path d="M583 478c7-98 25-149 82-149s80 53 85 149z" fill="#edb94f"/><path d="M619 342c12 20 29 31 47 31s34-11 47-31l21 18-23 37h-91l-22-37z" fill="#fff7e7"/>
+  <path d="M629 293c-3-34 9-58 38-63 33-5 51 18 48 52-3 35-19 58-44 58-24 0-40-20-42-47z" fill="#7f5038"/><path d="M625 281c0-39 17-61 47-62 27-1 47 17 46 49-11-8-20-21-26-37-12 17-35 28-67 31z" fill="#172d3b"/><path d="M639 290c6 5 13 5 19 0m27 0c6 5 13 5 19 0" fill="none" stroke="#51362f" stroke-width="3" stroke-linecap="round"/><path d="M652 315c10 7 21 7 31 0" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(742 292)"><circle cx="37" cy="37" r="37" fill="#fff"/><path d="M37 14c-8 13-19 23-19 35a19 19 0 0 0 38 0c0-12-11-22-19-35z" fill="#e85b62"/><path d="M28 48c1 6 5 10 11 11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+</svg>
