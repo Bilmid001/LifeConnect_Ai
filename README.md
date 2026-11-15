@@ -38,6 +38,10 @@ Open http://127.0.0.1:8012. Keep the server running while using the site; sign-i
 
 The SQLite database and synthetic demo records are created automatically on first run.
 
+## Deploy with Railpack
+
+The root `railpack.json` configures Railpack to start the FastAPI app with Uvicorn, listening on `0.0.0.0` and the platform-provided `PORT`.
+
 ## Demo accounts
 
 All demo accounts use password `Demo123!`.
